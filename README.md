@@ -4,16 +4,7 @@ Welcome to Caitlin Sauza's knowledge base for Getting Into Cyber Security. Here,
   
 **Are you ready to boost your cyber security journey? Check out what the knowledge base has in store below:**
   
-## About Me
-  
-## Posts
-  
-## Resources
-  
-## Recognitions
-  
-## Publications
-  
-## Knowledge Base Archives
-  
-## Feedback
+## Releases
+January 2024
+February 2024
+March 2024
