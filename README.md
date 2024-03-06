@@ -6,15 +6,14 @@ Welcome to Caitlin Sauza's knowledge base for Getting Into Cyber Security. Here,
   
 ## About Me
   
-## About Me
+## Posts
   
-## About Me
+## Resources
   
-## About Me
+## Recognitions
   
-## About Me
+## Publications
   
-## About Me
+## Knowledge Base Archives
   
-## About Me
-  
+## Feedback
