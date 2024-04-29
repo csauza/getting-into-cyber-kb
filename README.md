@@ -13,4 +13,6 @@ See the [Resources folder](https://github.com/csauza/getting-into-cyber-kb/tree/
 ## Previous Releases
 24 Mar 2024 https://csauza.gitbook.io/caitlin-sauza-24-03-24/  • [Release Notes](https://www.linkedin.com/posts/csauza_knowledge-base-update-week-of-march-25-activity-7178239294950580224-HZqE?utm_source=share&utm_medium=member_desktop)  
 24 Feb 2024 https://csauza.gitbook.io/caitlin-sauza-24-02-24/ • [Release Notes](https://www.linkedin.com/posts/csauza_knowledge-base-update-week-of-march-04-activity-7170147730349051905-rCWl/?utm_source=share&utm_medium=member_desktop)  
-24 Jan 2024 https://csauza.gitbook.io/caitlin-sauza-24-01-24/ • [Release Notes](https://www.linkedin.com/posts/csauza_knowledge-base-update-week-of-february-activity-7162535773429248001-zNWt?utm_source=share&utm_medium=member_desktop)
+24 Jan 2024 https://csauza.gitbook.io/caitlin-sauza-24-01-24/ • [Release Notes](https://www.linkedin.com/posts/csauza_knowledge-base-update-week-of-february-activity-7162535773429248001-zNWt?utm_source=share&utm_medium=member_desktop)  
+
+*Caitlin Sauza began developing the Getting Into Cyber Knowledge Base in June 2023.*
