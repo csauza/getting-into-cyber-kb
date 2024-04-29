@@ -1,10 +1,6 @@
 # Getting Into Cyber Security Knowledge Base
 
-
-
-https://github.com/csauza/getting-into-cyber-kb/assets/49359829/1b33a08a-ff30-48b0-9954-eee99d2831f5
-
-
+![cs_gicskb](https://github.com/csauza/getting-into-cyber-kb/assets/49359829/7fa091b2-a073-4a46-bf2a-0736762e46f4)
 
 Welcome to Caitlin Sauza's knowledge base for Getting Into Cyber Security. Here, you will uncover a curated treasure trove of cyber security insights.  
   
