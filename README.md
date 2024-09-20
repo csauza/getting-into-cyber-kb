@@ -20,6 +20,6 @@ See the [Resources folder](https://github.com/csauza/getting-into-cyber-kb/tree/
 24 Jan 2024 • [Release Notes](https://www.linkedin.com/posts/csauza_knowledge-base-update-week-of-february-activity-7162535773429248001-zNWt?utm_source=share&utm_medium=member_desktop)  
 
 ## Previous Experience
-See the LinkedIn Archives tab on the knowledge base to read through my previous career experience.  
+See the [LinkedIn Archives](https://csauza.gitbook.io/getting-into-cyber-security-knowledge-base/cyber-2) tab on the knowledge base to read through my previous career experience.  
 
 *Caitlin Sauza began developing the Getting Into Cyber Knowledge Base in June 2023.*
