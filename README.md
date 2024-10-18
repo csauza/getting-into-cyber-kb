@@ -7,12 +7,13 @@ Welcome to Caitlin Sauza's knowledge base for Getting Into Cyber Security. Here,
 **Are you ready to boost your cyber security journey? Check out what the knowledge base has in store, below:**
   
 ## [Current Release](https://csauza.gitbook.io/getting-into-cyber-kb/)  
-24 September 2024 • [Release Notes](https://www.linkedin.com/posts/csauza_%F0%9D%97%9E%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%B4%F0%9D%97%B2-%F0%9D%97%95%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%BD%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%81-activity-7243725772555763712-CTG1?utm_source=share&utm_medium=member_android)  
+24 October 2024 • Release Notes   
 
 ## Resource Download
 See the [Resources folder](https://github.com/csauza/getting-into-cyber-kb/tree/main/Resources) to download resources showcased on the knowledge base.  
   
 ## Previous Releases
+24 September 2024 • [Release Notes](https://www.linkedin.com/posts/csauza_%F0%9D%97%9E%F0%9D%97%BB%F0%9D%97%BC%F0%9D%98%84%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B1%F0%9D%97%B4%F0%9D%97%B2-%F0%9D%97%95%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B2-%F0%9D%97%A8%F0%9D%97%BD%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%81-activity-7243725772555763712-CTG1?utm_source=share&utm_medium=member_android)  
 24 August 2024 • [Release Notes](https://www.linkedin.com/posts/csauza_act-activity-7233578892165308416-fGhW?utm_source=share&utm_medium=member_android)  
 24 April 2024 • [Release Notes](https://www.linkedin.com/posts/csauza_knowledge-base-update-week-of-april-29-activity-7190454731184451584-mA67?utm_source=share&utm_medium=member_desktop)  
 24 Mar 2024 • [Release Notes](https://www.linkedin.com/posts/csauza_knowledge-base-update-week-of-march-25-activity-7178239294950580224-HZqE?utm_source=share&utm_medium=member_desktop)  
